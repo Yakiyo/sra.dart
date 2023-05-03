@@ -1,6 +1,6 @@
 name: sra
 description: Dart wrapper to interact with Some Random Api's Rest api. Easy to use features.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/Yakiyo/sra.dart
 repository: https://github.com/Yakiyo/sra.dart
 
