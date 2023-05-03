@@ -5,7 +5,7 @@ import './util.dart';
 
 /// Base class to interact with the api
 class Client {
-  final baseUrl = 'some-random-api.ml';
+  final baseUrl = 'some-random-api.com';
   late final Map<String, Endpoint> endpoints;
   late final String? apiKey;
 
